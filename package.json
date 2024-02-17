@@ -1,5 +1,5 @@
 {
-  "name": "ews-javascript-api-xhr",
+  "name": "@victor-nerd/ews-javascript-api-xhr",
   "version": "0.2.0",
   "description": "Library to Help with non-Basic Authentication methods with ews-javascript-api package",
   "main": "src/index.js",
